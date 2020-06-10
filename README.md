@@ -37,7 +37,7 @@ python traning.py
 Disclaimer -  I do not own/clicked any of the images below. 
 
 
-</p><img align="left" width="450" height="450" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.jpg"> <img align="right" width="450" height="450" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.png"></p>
+<p><img align="left" width="425" height="425" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.jpg"> <img align="right" width="425" height="425" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.png"></p>
 
 
 
