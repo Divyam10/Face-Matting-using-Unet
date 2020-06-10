@@ -62,4 +62,5 @@ Disclaimer -  I do not own/clicked any of the images below.
 # Extentions to the project
 1. Face attritube changing like color of the  hair,skin
 2. potrait regeneration using Gans, regenerating new attributes like long hair, beard, etc
+3. Traninig on dataset with lesser quality to apply matting on non-hd images
 
