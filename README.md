@@ -37,6 +37,15 @@ python traning.py
 Disclaimer -  I do not own/clicked any of the images below. 
 
 
+<img align="left" width="512" height="512" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.jpg"> <img align="right" width="512" height="512" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.png">
+<img align="left" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.jpg"> <img align="right" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.png">
+<img align="left" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.jpg"> <img align="right" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.png">
+<img align="left" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.jpg"> <img align="right" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.png">
+<img align="left" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.jpg"> <img align="right" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.png">
+<img align="left" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.jpg"> <img align="right" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.png">
+<img align="left" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.jpg"> <img align="right" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.png">
+<img align="left" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.jpg"> <img align="right" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.png">
+<img align="left" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.jpg"> <img align="right" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.png">
 <img align="left" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.jpg"> <img align="right" width="100" height="100" src="https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.png">
 
 
@@ -45,16 +54,6 @@ Disclaimer -  I do not own/clicked any of the images below.
 
 
 
-![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.jpg) ![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/0.png)
-![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/1.jpg) ![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/1.png)
-![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/2.jpg) ![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/2.png)
-![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/3.jpg) ![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/3.png)
-![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/4.jpg) ![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/4.png)
-![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/5.jpg) ![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/5.png)
-![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/6.jpg) ![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/6.png)
-![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/7.jpg) ![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/7.png)
-![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/8.jpg) ![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/8.png)
-![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/9.jpg) ![alt text](https://github.com/Divyam10/Face-Matting-using-Unet/blob/master/results/9.png)
 
 
 
